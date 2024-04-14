@@ -1,6 +1,4 @@
-<h1 align = center> Hi 🪐✨ </h1>
 
-**A place where I'll be sharing my passion projects and documenting the journey. I like to approach everything with a professional touch, constantly challenging myself to outdo my previous endeavors.**
 
 * Interested in Machine Learning 👨🏾‍💻
 
